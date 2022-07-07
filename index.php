@@ -3,8 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <title>Изучаем гит</title>
+    <script src="src/script.js"></script>
 </head>
 <body>
-
+    <script>
+        sayHello();
+    </script>
 </body>
 </html>

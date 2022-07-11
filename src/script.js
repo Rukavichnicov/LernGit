@@ -4,3 +4,6 @@ function sayHelloGit() {
 function sayBye() {
     alert('Bye World');
 }
+function work() {
+    alert('Work, work!');
+}

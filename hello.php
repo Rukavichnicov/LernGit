@@ -8,7 +8,7 @@
 <body>
     <script>
         sayHelloGit();
-        //what
+        work();
     </script>
 </body>
 </html>

@@ -6,4 +6,5 @@ function sayBye() {
 }
 function work() {
     alert('Work, work!');
+    alert('Please, please!!!');
 }

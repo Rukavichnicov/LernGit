@@ -8,6 +8,7 @@
 <body>
     <script>
         sayHelloGit();
+        work();
     </script>
 </body>
 </html>

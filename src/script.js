@@ -4,4 +4,7 @@ function sayHelloGit() {
 function sayBye() {
     alert('Bye World');
 }
-//what
+function work() {
+    alert('Work, work!');
+    alert('Please, please!!!');
+}

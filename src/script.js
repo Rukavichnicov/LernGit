@@ -5,6 +5,6 @@ function sayBye() {
     alert('Bye World');
 }
 function work() {
-    alert('Work, work!');
+    alert('Work, work harder!');
     alert('Please, please!!!');
 }

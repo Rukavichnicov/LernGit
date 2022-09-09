@@ -10,5 +10,8 @@
         sayHelloGit();
         work();
     </script>
+    <script>
+        work();
+    </script>
 </body>
 </html>
